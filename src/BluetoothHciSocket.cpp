@@ -4,6 +4,7 @@
 #include <sys/types.h>
 #include <unistd.h>
 
+#include <byteswap.h>
 #include <node_buffer.h>
 #include <nan.h>
 
